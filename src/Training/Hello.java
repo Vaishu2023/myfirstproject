@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("This is Vaishali");
 		System.out.println(50*30);
 		System.out.println("Thank you");
+		System.out.println("$150 off on iPhone 14 Pro Max on Saturday night");
 		
 		
 		
