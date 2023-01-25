@@ -10,6 +10,10 @@ public class Hello {
 		System.out.println("Thank you");
 		System.out.println("$150 off on iPhone 14 Pro Max on Saturday night");
 		System.out.println("fashion sales starts this sunday");
+		System.out.println("sale price update");
+		
+			
+		
 		
 		
 		
